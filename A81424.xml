@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the late King James and the Prince of Conty</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81424</idno>
+            <idno type="STC">Wing D1332B</idno>
+            <idno type="STC">ESTC R224916</idno>
+            <idno type="EEBO-CITATION">99897208</idno>
+            <idno type="PROQUEST">99897208</idno>
+            <idno type="VID">135719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the late King James and the Prince of Conty</title>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Conti, Armand de Bourbon, Prince de. 1629-1666.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Fiction --  Early works to 1800.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Humor --  Early works to 1800.</term>
+               <term>Conti, Armand de Bourbon, --  Prince de 1629-1666 --  Fiction --  Early works to 1800.</term>
+               <term>Conti, Armand de Bourbon, --  Prince de 1629-1666 --  Humor --  Early works to 1800.</term>
+               <term>Europe --  Politics and government --  1648-1715 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:135719:1"/>
+            <p>A DIALOGUE Between the Late King <hi>JAMES</hi> AND THE Prince of <hi>CONTY.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:135719:2" rendition="simple:additions"/>
+            <pb facs="tcp:135719:2"/>
+            <p>A DIALOGUE Between the Late <hi>King James</hi> AND THE Prince of <hi>CONTY.</hi>
+            </p>
+            <q>
+               <l>Then, ſpite of Fate, we'll thus combined ſtand,</l>
+               <l>And, like true Brothers, walk ſtill hand in hand.</l>
+               <bibl>Rehearſal.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:135719:3"/>
+            <pb n="1" facs="tcp:135719:3"/>
+            <head>A DIALOGUE Between the Late King <hi>JAMES,</hi> &amp;c.</head>
+            <sp>
+               <speaker>K. <hi>James.</hi>
+               </speaker>
+               <p>GOOD Morrow to your Majeſty; Pray what News from <hi>Poland?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P. of <hi>Conty.</hi>
+               </speaker>
+               <p>Before I Anſwer your Majeſty's Queſtion, I beg you would give me leave to refuſe the Title of Majeſty, which you ſo generouſly give me, till I am in Poſſeſſion of my Right.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:135719:4"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Oh, Sir! I muſt beg your Majeſty's Pardon for That; for if on<g ref="char:EOLhyphen"/>ly <hi>Poſſeſſion</hi> could juſtify that Title, then it might be refuſed even to Me; Has not our Great Protector, the King of <hi>France,</hi> called you his Bro<g ref="char:EOLhyphen"/>ther, and pronounced you King? Can he be miſtaken? Has not Ma<g ref="char:EOLhyphen"/>dam <hi>Maintenon</hi> received you as ſuch? Can ſhe be deceived? No, no, Sir, we are certainly both Kings before God, though we are kept out of our Kingdoms by Rebellious Subjects; therefore without any more ado, I beg your Majeſty would lay aſide your Modeſty, and Anſwer my Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Well, Sir, it ſhall be as your Majeſty pleaſes then, without any further Ceremony; and in Anſwer to your Majeſty's Queſtion, I muſt tell you, My laſt Letters from my Kingdom ſay, That the Rebellion
+<pb n="3" facs="tcp:135719:4"/>grows to a very ſtrong Head; the whole Nation, except the Primate and ſome few Needy Noblemen being engaged in it; and they are like to do me no more Service by their Arms, than the Primate by his Prayers. But that which vexes me moſt, is, that I can no more get thither, than I can to the Kingdom of Heaven; for beſides my own Sub<g ref="char:EOLhyphen"/>jects, almoſt all the Princes in <hi>Europe</hi> are in Arms againſt me, and refuſe paſſage for me or my Troops through their Countries; ſo that I muſt ſtand ſtill, and tamely ſee ano<g ref="char:EOLhyphen"/>ther take away my Right.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I am ſo ſenſible of the wrong done to your Majeſty, that I here freely offer your Majeſty an Ar<g ref="char:EOLhyphen"/>my of 30 000 Men, and Fifty Sail of Ships, which I will get ready as ſoon as ever I am ſettled in my Kingdoms.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:135719:5"/>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>I heartily thank your Ma<g ref="char:EOLhyphen"/>jeſty for your kind Offer; but yet me<g ref="char:EOLhyphen"/>thinks I could wiſh ſomething were done in the mean time.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Nay, I beg your Majeſty would take warning by my Misfor<g ref="char:EOLhyphen"/>tunes, and never refuſe ſo conſider<g ref="char:EOLhyphen"/>able a Force when it is offered you; for I can aſſure you, if I had accept<g ref="char:EOLhyphen"/>ed the Army which our good Brother the King of <hi>France</hi> would have ſent me when I was Invaded, I ſhould ſtill have peaceably enjoyed my Crowns; but I was diſſuaded from it by ſome, who then were engaged in the deſigned Rebellion, and have ever ſince continued to be my irre<g ref="char:EOLhyphen"/>concileable Enemies; therefore pray Sir, accept of them, and don't fear being too Powerful.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Indeed Sir, I think I need not fear that; But pray where are your Majeſty's Fleet and Army?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:135719:5"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Why, as for my Army, I beg your Majeſty would not laugh when I ſay it lies conceal'd in <hi>England,</hi> for the Officers all have their Com<g ref="char:EOLhyphen"/>miſſions, the Soldiers are all Liſted, and at a certain Signal are to dig up their Arms out of the Ground, and Form themſelves into Bodies; ſome of my Field-Officers indeed were taken off, upon diſcovery of the late Deſign to Reſtore me, and others of them have join'd with my Enemies; but thoſe Vacancies are filled up by Subalterns, for the encouragement of the Service: And when my Army is thus ſet on foot, How eaſy is it to March to the Sea<g ref="char:EOLhyphen"/>ports, and Seize the Fleet when it is laid up?</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>I fear your Majeſty's Army will not prove ſo effective as I could wiſh it; but if it ſhould, that ſeems to be a work of time, and my Ne<g ref="char:EOLhyphen"/>ceſſities
+<pb n="6" facs="tcp:135719:6"/>require preſent Supplies; for my Adverſary, the Elector of <hi>Saxony,</hi> gains ground every day, and for ought I know, while we are ſpeaking, is Entring my Metropolis in Triumph: Oh that I had but the ſame Army in <hi>Poland,</hi> which your Majeſty had firſt at <hi>Salisbury,</hi> and afterwards in <hi>Ireland;</hi> then would I ſhew the World how fit I am to Command, and what I dare do for Empire; then my Enemies ſhould Bleed, not I; my Enemies ſhould Fly out of the Kingdom, not I: And give me leave to tell your Majeſty, you are the firſt that ever left a good Army for a Bloody Noſe, when, perhaps, a cold Key put in<g ref="char:EOLhyphen"/>to your Majeſty's Neck, had ſaved all; I have often ventured my Life to ſave another Prince's Kingdom, and now cannot do it to ſave my own. But I muſt beg your Majeſty's
+<pb n="7" facs="tcp:135719:6"/>Pardon, I fear my Paſſion has tran<g ref="char:EOLhyphen"/>ſported me to ſay ſome Reproachful things which my heart never meant you.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Give me leave to tell your Majeſty, You are Young and Haſty; God Almighty in his appointed time will ſettle all things to our Minds; the <hi>ways of his Providence are paſt finding out.</hi> Who would ever have thought, that when my Bro<g ref="char:EOLhyphen"/>ther and I Travelled theſe Parts ſe<g ref="char:EOLhyphen"/>veral Years ago, we ſhould both have enjoyed our Three Kingdoms one after another? <hi>Many are the troubles of the righteous, but God will deliver them out of all;</hi> ſays the <hi>Pſal<g ref="char:EOLhyphen"/>miſt,</hi> who was himſelf a King. It muſt be confeſſed, That your Ma<g ref="char:EOLhyphen"/>jeſty's <hi>Poliſh</hi> Subjects, and my <hi>Engliſh</hi> ones, are ſtrangely poſſeſſed with the Spirit of Mutiny and Rebelli<g ref="char:EOLhyphen"/>on, and value us Kings no more
+<pb n="8" facs="tcp:135719:7"/>than—no more than we do our Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>I aſſure your Majeſty I rely very much upon God's Providence, and expect my Deliverance in his appointed time; but yet Human Means are not to be neglected; I would be glad, methinks, to haſten his Providence a little with a good Army; nor can your Majeſty think it ſtrange, if I wiſh he would ap<g ref="char:EOLhyphen"/>point his time quickly, ſince ſome people will pretend to ſay, your Majeſty did a little anticipate his Providence when you Succeeded your Brother; but that's only by the by: The chief reaſon why I am ſo haſty is, That a General Peace ſeems to be near at hand, and then we ſhall both be for ever Ex<g ref="char:EOLhyphen"/>cluded.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Oh Sir! For that matter your Majeſty needs only do as I
+<pb n="9" facs="tcp:135719:7"/>have done, to ſecure your ſelf: I think I may modeſtly ſay, I have taken effectual Care about that mat<g ref="char:EOLhyphen"/>ter; nothing that is done at the Trea<g ref="char:EOLhyphen"/>ty of Peace can any ways affect me.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Why, pray Sir, what me<g ref="char:EOLhyphen"/>thod has your Majeſty taken?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Taken! why, Sir, I have by the Advice of my Lord <hi>Melford,</hi> and the reſt of my Privy-Council, publiſhed a Solemn Declaration, wherein I tell the World flat and plain, That the time and pains the Ambaſſadors ſpend at <hi>Riſwick</hi> to Treat about a Peace, is all loſt, and to no purpoſe; that they reckon without their Hoſt; that though they all know who I am, yet they ſeem to take no notice of me; and there<g ref="char:EOLhyphen"/>fore I conclude with proteſting a<g ref="char:EOLhyphen"/>gainſt all their Proceedings, and declare, That whatever is agreed on
+<pb n="10" facs="tcp:135719:8"/>there, is Null, Void, and of no Ef<g ref="char:EOLhyphen"/>fect; that it cannot be good in Law, nor ſhall it bind me or my Succeſ<g ref="char:EOLhyphen"/>ſors to the performance of any one Article: This Declaration I have put under my Great Seal, and have cauſed it to be printed by my own Printer at <hi>Paris,</hi> leſt they ſhould plead Ignorance. Thus I have gi<g ref="char:EOLhyphen"/>ven the World fair warning, and left the Ambaſſadors without excuſe, ſo that if they proceed any further, 'tis at their own peril.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Truly, Sir, I think your Majeſty has done all that was left for you to do; but perhaps they have nor read your Declaration; or if they have, 'tis odds againſt your Majeſty, they will not mind it.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Lord, Sir, how do you mean, not read it? Why, Sir, 'twas printed and diſperſed all over <hi>Europe;</hi> and as for their not minding it, Sir,
+<pb n="11" facs="tcp:135719:8"/>can your Majeſty poſſibly think that ſo many able Miniſters as are there met together, and ſo vigilant to ſerve their Maſter's Intereſts, will neglect a Declaration of that vaſt Importance, whereon the Peace of all the Kingdoms and States in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> depends?</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Sir, I am not verſed in theſe matters, and therefore I hope your Majeſty will not think me imperti<g ref="char:EOLhyphen"/>nent if I trouble you with ſome Queſtions about them; Pray, Sir, what would be the Conſequence if they ſhould not mind your Decla<g ref="char:EOLhyphen"/>ration?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>The Conſequence! Lord, Sir, I told your Majeſty but juſt now, that if they did not, all they ſhould do at <hi>Riſwick</hi> would ſignify nothing, nothing at all Sir, no more than the Acts of Parliament made in <hi>England</hi> during my Abſence for
+<pb n="12" facs="tcp:135719:9"/>theſe nine Years laſt paſt, which are all void for want of my Royal Sanction; why, Sir, they are draw<g ref="char:EOLhyphen"/>ing of Sham-Conveyances of Lands one to another, without the Conſent of the Proprietor.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Faith, Sir, As to the Acts of Parliament in <hi>England,</hi> I think thoſe that have been made in your Abſence, have ſignified more to <hi>France</hi> and You, than all the Acts that were ever made there by any of your Family; but let that paſs. For my part I'll deal plainly with your Majeſty, I could wiſh they would have that regard to your De<g ref="char:EOLhyphen"/>claration, which in Juſtice it deſerves; but I fear the worſt, for you know all the Princes in <hi>Europe</hi> are join'd in a ſtrict Alliance with the Prince of <hi>Orange,</hi> and diſown your Power. Then as to your Subjects in <hi>England,</hi> I am told they don't ſtick to ſay,
+<pb n="13" facs="tcp:135719:9"/>That truly there was a King <hi>James</hi> who reigned there about four Years, and then died, and was buried in <hi>Weſtminſter-Abby</hi> with his Anceſtors; that they hear indeed he walks here in <hi>France,</hi> but that he never yet ap<g ref="char:EOLhyphen"/>peared to any one in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Dead! Lord, Sir, your Majeſty's own Reaſon muſt convince you of the contrary; if I were Dead, how could I be here and ſpeak to your Majeſty?</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>That is, they mean you are a dead King, ſince they have got ano<g ref="char:EOLhyphen"/>ther, with whoſe Perſon and Go<g ref="char:EOLhyphen"/>vernment they are mightily pleaſed, as your Majeſty may judge by the vaſt Expence they have been at to maintain and preſerve him againſt all his Enemies.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Dead! I know very well they every one of them wiſh me Dead, and rather than fail, I ſup<g ref="char:EOLhyphen"/>poſe,
+<pb n="14" facs="tcp:135719:10"/>would Murther me, as they did my Father; but I fancy I ſhall be too cunning for them, and keep out of their reach.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>But, Sir, if your Majeſty always keeps out of their reach, how do you intend to mount the Throne again?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Why, Sir, I will not go over till I have an Army of at leaſt 100000 Men, which our kind Bro<g ref="char:EOLhyphen"/>ther the King of <hi>France</hi> has promiſed me ſpeedily.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>But ſuppoſe, Sir, he ſhould make Peace with the Allies.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Suppoſe, Sir! why you may as well ſuppoſe I will keep the Pro<g ref="char:EOLhyphen"/>miſes I make to my Proteſtant Sub<g ref="char:EOLhyphen"/>jects when I am reſtored, as to ima<g ref="char:EOLhyphen"/>gine he will long keep the Peace, if he ſhould make one.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Well, but we wander from the Point, Sir, all this time; What's to be done for me in <hi>Poland?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:135719:10"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Done; why the ſame as for me in <hi>England,</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>I do not know what that is, Sir; your Majeſty ſeems indeed to have ſeveral Projects in your Head, but I don't find that any one of them is feiſible; for my part, ſince it will be impoſſible for me to march an Army by Land into <hi>Poland,</hi> as long as the Allies are Maſters of all the Countries through which it muſt ne<g ref="char:EOLhyphen"/>ceſſarily paſs; and for You to Tran<g ref="char:EOLhyphen"/>ſport an Army to <hi>England,</hi> while they are Maſters at Sea: I confeſs I am of Opinion, That we ſhould firſt in a joint Memorial repreſent Our Caſe to the Congreſs at <hi>Riſwick;</hi> and then if they refuſe to do Us Juſtice, they will be anſwerable to God for all the Blood that ſhall hereafter be ſpilt upon Our Accounts.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Why truly I think your Ma<g ref="char:EOLhyphen"/>jeſty is in the right, ſince it is a Chri<g ref="char:EOLhyphen"/>ſtian's
+<pb n="16" facs="tcp:135719:11"/>part to try all fair ways of Ac<g ref="char:EOLhyphen"/>commodation before he has recourſe to Arms: And therefore if your Ma<g ref="char:EOLhyphen"/>jeſty pleaſes, My Lord <hi>Melford</hi> ſhall draw up our Memorial, becauſe he is a great Maſter of Rhetorick, and gives ſuch fine Turns to his Argu<g ref="char:EOLhyphen"/>ments, that he almoſt perſuades People againſt their Reaſon; eſpe<g ref="char:EOLhyphen"/>cially ſince he came from <hi>Rome,</hi> where he improv'd himſelf migh<g ref="char:EOLhyphen"/>tily in that Study for want of other Buſineſs; I cannot range it in ſuch Order as he, but I think this ſhould be the Subſtance of it. <q>That foraſmuch as here are Two Kings in <hi>France</hi> more than there ſhould be, who are ſhov'd out of their Kingdoms, no body knows how, nor wherefore; and that they conceive it to be a great Abſur<g ref="char:EOLhyphen"/>dity, that there ſhould be more Kings than Kingdoms in the
+<pb n="17" facs="tcp:135719:11"/>World; they deſire to know of this Wiſe Aſſembly, Where they muſt Reign, and who they are to govern, that they may take their Meaſures accordingly: That if it were left to their Choice, they would go to their own Poſts, provided this Aſſembly will engage in their reſpective Maſter's Name, That no Vio<g ref="char:EOLhyphen"/>lence ſhall be offer'd to their Perſons by their Subjects; for that it is a very uneaſy thing to Reign in fear of one's Life. But in caſe that ſhould not be thought expedient, they are ſo willing to agree to any Terms of Accommo<g ref="char:EOLhyphen"/>dation, that they are content to accept of Equivalents, provided the Countries aſſigned to them be ſtockt with Subjects; ſince Kings cannot reign happily by themſelves, without People to
+<pb n="18" facs="tcp:135719:12"/>make War, and pay Taxes. That after they have given theſe many evincing Proofs of their Peace<g ref="char:EOLhyphen"/>able Inclinations (eſpecially I, K. <hi>J.</hi> through the whole courſe of my Life) in caſe theſe Propoſals ſhould not be hearken'd to, they do declare, That though they are unwilling to wade to their Thrones through Seas of Blood, as well as of Water; yet to their unſpeakable Griefs, they fear, that muſt be the fatal Conſe<g ref="char:EOLhyphen"/>quence; ſince they cannot anſwer to God, their Poſterity, or their own Conſciences, their ſuffering their Subjects to live quietly under Kings of their own, that they like; who though they may fancy themſelves happy, yet they de<g ref="char:EOLhyphen"/>ceive themſelves; 'tis a falſe ir<g ref="char:EOLhyphen"/>regular Quiet, and no true one can be found but under the Right
+<pb n="19" facs="tcp:135719:12"/>King. Theſe things therefore the Two Kings offer to their Conſi<g ref="char:EOLhyphen"/>deration, and deſire they would ſpeedily weigh their Arguments, as they value the Peace and Wel<g ref="char:EOLhyphen"/>fare of Mankind.</q>
+               </p>
+               <p>Theſe, if you think fit, Sir, ſhall be the Heads of Our Memorial; and I'll be bold to ſay, if this will not do, nothing will.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>That I believe, Sir; Will your Majeſty get this drawn up to morrow, becauſe no time is to be loſt?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I can't to morrow, Sir, be<g ref="char:EOLhyphen"/>cauſe there is to be a fine Fox Chace; but next day I will not fail of it.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Well Sir, I wiſh we may have Succeſs in this Matter; but for my part, I am very doubtful of it.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Why, to tell your Majeſty the truth, I can't ſay I depend much upon it my ſelf, however one would leave no ſtone unturned; That
+<pb n="20" facs="tcp:135719:13" rendition="simple:additions"/>which gives me the moſt ſolid Joy here in my Retreat, is to think that all my Enemies will be Damn'd.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Ah Sir! that's very uncer<g ref="char:EOLhyphen"/>tain; but I muſt now take my leave of your Majeſty, to wait on the <hi>Dauphine,</hi> who expects me.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Well Sir, let us part with this pleaſant Thought, That though our Enemies ſhould keep poſſeſſion of our Thrones, and we Die in Exile;
+<q>
+                     <l>Yet with this Comfort to our Graves we'll go</l>
+                     <l>We'll Reign Above, while they but Reign Below.</l>
+                  </q> And ſo, Sir, I am your Majeſty's moſt humble Servant.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>C.</hi>
+               </speaker>
+               <p>Sir I am yours. <stage>(aſide.)</stage> This King is a mighty ſilly Creature, I would the <hi>P.</hi> of <hi>O.</hi> had no more Senſe than he.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
